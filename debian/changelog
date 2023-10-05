@@ -1,0 +1,6 @@
+kiwi-talk (0.1.2+hamonikr1) unstable; urgency=medium
+
+  * Build package
+   - Initialize debian structure
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 06 Oct 2023 03:33:17 +0900

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Network;
+Exec=kiwi-talk
+Icon=kiwi-talk
+Name=KiwiTalk
+Terminal=false
+Type=Application

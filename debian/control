@@ -1,0 +1,24 @@
+Source: kiwi-talk
+Section: utils
+Priority: optional
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Build-Depends: debhelper (>= 9),
+               libwebkit2gtk-4.0-dev,
+               build-essential,
+               curl,
+               wget,
+               libssl-dev,
+               libgtk-3-dev,
+               libayatana-appindicator3-dev,
+               librsvg2-dev
+Standards-Version: 3.9.5
+
+Package: kiwi-talk
+Architecture: amd64
+Depends: libayatana-appindicator3-1, 
+          libwebkit2gtk-4.0-37, 
+          libgtk-3-0
+Replaces:
+Recommends:o             
+Description: KakaoTalk for Linux
+ 리눅스용 카카오톡 클라이언트.
