@@ -19,6 +19,6 @@ Depends: libayatana-appindicator3-1,
           libwebkit2gtk-4.0-37, 
           libgtk-3-0
 Replaces:
-Recommends:o             
+Recommends:
 Description: KakaoTalk for Linux
  리눅스용 카카오톡 클라이언트.
