@@ -1,3 +1,11 @@
+kiwi-talk (0.1.2+hamonikr2) unstable; urgency=medium
+
+  * Release package
+   - Add libssl1.1 in Depends
+   - Add libssl1.1 in kumkang APT repo (it's missing in ubuntu)
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 06 Oct 2023 13:48:36 +0900
+
 kiwi-talk (0.1.2+hamonikr1) unstable; urgency=medium
 
   * Build package
